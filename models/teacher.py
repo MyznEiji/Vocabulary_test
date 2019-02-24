@@ -1,7 +1,10 @@
 """Defined a teacher model """
+import csv
+import random
+
+
 from models import ranking
 from views import console
-import csv
 
 
 DEFAULT_TEACHER_NAME = 'Smisu'
@@ -49,7 +52,7 @@ class EnglishTeacher(Teacher):
         return wrapper
 
 
-
+    # 新しい単語を入力する
     def input_new_vocabulary(self):
         new_vocabulary = {}
     
@@ -78,7 +81,7 @@ class EnglishTeacher(Teacher):
         return new_vocabulary
 
 
-    
+    # 新しい単語を追加する
     def write_new_vocabulary(self, new_vocabulary):
         # if there is not csv
         with open(self.csv_path, "r+") as f:
@@ -94,21 +97,70 @@ class EnglishTeacher(Teacher):
             writer.writerow({"english": new_vocabulary['en'], "japanese": new_vocabulary['ja'], "parts_of_speech": new_vocabulary["parts_of_speech"]})
     
 
+    # csvからlistへトランスフォーム
+    def make_array(self, path):
+        """transform from csv to list"""
+        array = []
+        with open(path, 'r') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                array.append([row['english'], row['japanese'], row['parts_of_speech']])
+        return array
+
 
 
     def practice(self):
-        with open(self.csv_path, 'r') as f:
-            print(f.read())
+        """for practice vocabulary"""
+
+        # Vocabularyの数を取得
+        f = open(self.csv_path)
+        num_lines = sum(1 for line in f)
+        f.close
+
+        # Vocabularyのcsvデータを配列にトランスフォーム
+        vocaburaly_array = self.make_array(self.csv_path)
+
+        # 乱数を0からnum_lines-2(colomunsの行があるのと、配列は0から始まるから)までで10個生成して、vocabularyを取得する
+        for i, question_num in enumerate(random.randint(0, num_lines-2) for n in range(10)):
 
 
-            while True:
-            	# 一行づづ読み込んでいる
-                line = f.readline()
-                # 読み込み時はデフォルトでend='¥n'というオプションになっているので改行が入る。
-                print(line, end="")
-                if not line:
-                    break
+            # 選択肢の作成
+            choices = []
+            for j in (random.randint(0, num_lines-2) for n in range(3)):
+                choices.append(vocaburaly_array[j][1])
+            # 選択肢に正解を追加
+            choices.append(vocaburaly_array[question_num][1])
+            choices = random.sample(choices, 4)
 
+            # 質問する
+            template = console.get_template(
+                'question_english_meaning.txt', self.speak_color)
+            answer_num = int(input(template.substitute({
+                'robot_name': self.name,
+                'user_name': self.user_name,
+                'english': vocaburaly_array[question_num][0],
+                'japanese': vocaburaly_array[question_num][1],
+                'number': i+1,
+                'ch1': choices[0],
+                'ch2': choices[1],
+                'ch3': choices[2],
+                'ch4': choices[3]
+            })))
+
+            # 答え合わせ
+            if vocaburaly_array[question_num][1] == choices[answer_num]:
+                template = console.get_template(
+                    'correct.txt', 'blue')
+                print(template.substitute())
+
+            else:
+                template = console.get_template(
+                    'wrong.txt', 'red')
+                print(template.substitute({
+                        'answer_e': vocaburaly_array[question_num][0],
+                        'answer_j': vocaburaly_array[question_num][1],
+                        'parts_of_speech': vocaburaly_array[question_num][2]
+                        }))
 
 
 
@@ -130,7 +182,6 @@ class EnglishTeacher(Teacher):
             }))
 
             if int(todo) == 0:
-                print("Practice")
                 self.practice()
             elif int(todo) == 1:
                 new_vocabulary = self.input_new_vocabulary()

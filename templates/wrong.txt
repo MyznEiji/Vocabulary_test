@@ -1,0 +1,7 @@
+不正解です
+It's wrong
+
+答えは
+Answer is
+
+$answer_e : $answer_j - $parts_of_speech

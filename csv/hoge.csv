@@ -1,5 +1,173 @@
 english,japanese,parts_of_speech
-hoge,fuga,Verb
-dd,dd,Adverb
-i,pad,Preposition
-hoge,fua,Verb
+Transparent,透明な,Adjective
+Intuitive,直感の,Adjective
+Apparent,明白な,Adjective
+Subordinate,従属,Adjective
+Troublesome,やっかいな,Adjective
+Strange,奇妙な,Adjective
+Absent,不在,Adjective
+Unaware,知らないで,Adjective
+Superlative,最高の,Adjective
+Comparative,比較する,Adjective
+Picturesque,絵のような,Adjective
+Chubbyぽっちゃり,Adjective
+Unfortunate,不運な,Adjective
+Weak,弱い,Adjective
+Apparent,明白な,Adjective
+Bilingual,二か国語を(自由に)話す,Adjective
+Weird,変な,Adjective
+Thirsty,喉が渇いて,Adjective
+Singular,単数形,Adjective
+Plural,複数形,Adjective
+Deceased,故人,Adjective
+Continent,大陸,Adjective
+Wealthy,裕福な,Adjective
+Indifferent,無関心な,Adjective
+Significant,重要な,Adjective
+Nearsighted,近視,Adjective
+Unfortunate,残念な,Adjective
+Consciously,意識して,Adverb
+Unconsciously,無意識に,Adverb
+Soonest,できるだけ遅れないで,Adverb
+Simultaneously,同時に,Adverb
+Likewise,同様に,Adverb
+Probably,多分,Adverb
+Instruction,教授,Noun
+Moderation,適度,Noun
+Handicap,不利な条件,Noun
+Synapse,シグナル,Noun
+Acquisition,獲得する,Noun
+Neurolinguistics,神経言語学,Noun
+Lateralization,偏った,Noun
+Lungs,肺,Noun
+Asthma,ぜんそく,Noun
+Liberalism,自由主義,Noun
+Beard,あごひげ,Noun
+Eyelid,まぶた,Noun
+Fair skin, 白い肌,Noun
+Feature,特徴,Noun
+Pale skin,蒼白,Noun
+Appearance,出現,Noun
+In security,不安定,Noun
+Biography,伝記,Noun
+Glimpse,ひと目,Noun
+Explanation,説明,Noun
+Bamboo,竹,Noun
+Monastery,修道院,Noun
+Jail,刑務所,Noun
+Venture,冒険的,Noun
+Patience,忍耐,Noun
+Handicap,不利な条件,Noun
+Acquisition,獲得,Noun
+Hot spring,温泉,Noun
+Contractions,収縮,Noun
+Literature,文学,Noun
+Comprehension,理解,Noun
+Dialogue,対話,Noun
+Librarian,図書館員,Noun
+Difficulty,難しさ,Noun
+Discrimination,区別,Noun
+Deed,行為,Noun
+Democracy,民主政治,Noun
+Advertisement,広告,Noun
+Intensity,強度,Noun
+Favor,親切,Noun
+Fortune,幸運,Noun
+Fever,熱,Noun
+Submission,提出,Noun
+Simultaneously,同時に,Adverb
+Hassle,言い合い,Verb
+Differentiate,区別を立てる,Verb
+Explore,探検する,Verb
+Appear,姿を見せる,Verb
+Kidnap,誘拐,Verb
+Itch,かゆみ,Noun
+Overcome,克服する,Verb
+Postponed,延期する,Verb
+Dine,食事をする,Verb
+Drain,徐々に排出される,Verb
+Duplicate,重複する,Verb
+Explain,説明,Verb
+Go for a hug, ハグをする,Phrase
+Let me see,ええと,Phrase
+Evolve,進化する,Verb
+Unenthusiastic,熱狂的な,Adjective
+Acceptable,許容できる,Adjective
+Pat on the back,背中を軽く叩く,Phrase
+In that regards,その点については,Phrase
+Speaking of which,そういえば,Phrase
+At what point,どの時点で,Phrase
+In my case,私の場合,Phrase
+Blank out,何も考えていない,Phrase
+Maybe it’s just me but,私だけかもしれませんが,Phrase
+A friend of a friend,友達の友達,Phrase
+Disturb,乱す,Verb
+Nephew,甥,Noun
+Hiccup,ひゃっくり,Noun
+Reliable,信頼性のある,Adjective
+Phase,階段,Noun
+Receipt,領収書,Noun
+Emphasis,強調,Noun
+Atmosphere,雰囲気,Noun
+Cough,席,Noun
+Lamb,子羊,Noun
+Debt,負債,Noun
+Plumber,配管工,Noun
+Tomb,墓,Noun
+Oh why not?,どうして？,Phrase
+That’s true,そうですね,Phrase
+You know,実は,Phrase
+I guess so,そうかもね,Phrase
+Backet list,死ぬ前にやることリスト,Phrase
+Itchy feet,出掛けたくてウズウズする,Phrase
+To hit the road,出発する,Phrase
+Travel light,ほんの少しの手荷物だけで旅行する,Phrase
+Travel bug,旅行熱に取り憑かれる,Phrase
+Read your face,顔でわかる,Phrase
+Depends on the distance,距離による,Phrase
+Something like that,だいたいそんな感じ,Phrase
+It cannot be helped,それは仕方ないね,Phrase
+Could you speak more slowly, please?,もう少しゆっくり言ってください,Phrase
+Could you say that again, please?,もう一度言っていただけますか？,Phrase
+I don’t know how I feel about,〜についてどう思うか分からない,Phrase
+Drive up / Drive down,運転する／行く,Verb
+Be into,◯◯にはまる,Phrase
+How was your weekend?,週末はどうでしたか？,Phrase
+Catch up on,◯◯に追いつく / ◯◯を取り戻す,Phrase
+I’ve always wanted to,昔からずっと〜,Phrase
+Have you ever been to,〜に行ったことはありますか？,Phrase
+Any place that you (could) recommend?,オススメの場所はありますか？,Phrase
+Just around the corner,もうすぐ,Phrase
+If I were you, I would,私だったら〜をする,Phrase
+Take advantage of,〜をうまく利用する,Phrase
+Kick someone out,追い出す,Verb
+Move out,引っ越す,Verb
+Gross,気持ち悪い,Adjective
+Put something back,元の場所に戻す,Verb
+Common sense,常識,Noun
+How do/can you tell?,どうやって分かるの？,Phrase
+As long as,〜であるならば,Phrase
+Attract,魅力がある,Verb
+Lame,ださい,Adjective
+24/7, Twenty-four-seven,いつも,Adverb
+Gain weight,太る,Phrase
+Turn over a new leaf,心機一転する,Phrase
+Go through,つらいことを経験する,Verb
+Quit cold turkey,Quit cold turkey,Phrase
+End up,結局〜になる,Verb
+Has been around for,〜からずっとある,Phrase
+All the way,はるばる,Adverb
+Whenever I,〜をするときはいつでも,Phrase
+For the most part,全体的に,Phrase
+How would you describe someone?,〜はどんな人ですか？,Phrase
+Overwhelmed,圧倒される,Verb
+As far as,〜に関する限りでは,Phrase
+Look for,〜を求める,Verb
+Have someone over,人を家に呼ぶ,Verb
+Comes to mind,思い浮かぶ,Verb
+That’s crazy,それは凄いね,Phrase
+In one’s own world,自分だけの世界に入っている,Adjective
+Drive someone crazy,イライラさせる,Verb
+Me neither,私もです,Phrase
+Tend to,〜する傾向がある,Phrase
+Sort of,ちょっと / 〜みたいな,Adverb
