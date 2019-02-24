@@ -1,0 +1,12 @@
+品詞はどれですか?
+Which parts of speech?
+
+  [0] : Noun - 名詞
+  [1] : Pronoun - 代名詞
+  [2] : Adjective - 形容詞
+  [3] : Verb - 動詞
+  [4] : Adverb - 副詞
+  [5] : Preposition - 前置詞
+  [6] : Conjunction - 接続詞
+  [7] : Interjection - 感動詞
+  [8] : Phrase - フレーズ

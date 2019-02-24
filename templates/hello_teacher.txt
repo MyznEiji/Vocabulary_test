@@ -1,0 +1,2 @@
+こんにちは！私は$teacher_nameです。あなたの名前は何ですか？
+Hello, I am $teacher_name. What is your name?

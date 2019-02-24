@@ -1,0 +1,7 @@
+$user_nameさん。何をしますか？
+$user_name, what do you want to do?
+
+[0] : Plactice
+[1] : New Vocabulary
+[2] : Exit
+

@@ -1,0 +1,2 @@
+英単語を入力してください
+Please enter English Vocabulary.
