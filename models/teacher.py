@@ -3,7 +3,6 @@ import csv
 import random
 
 
-from models import ranking
 from views import console
 
 
@@ -35,15 +34,14 @@ class EnglishTeacher(Teacher):
     """Handle data model on English."""
 
     parts_of_speech_list = ["Noun", "Pronoun", "Adjective", "Verb", "Adverb", "Preposition", "Conjunction", "Interjection", "Phrase"]
-    all_csv_path = "./csv/all.csv"
-    weekly_csv_path = "./csv/weekly.csv"
+    all_csv_path = "/root/vocabulary_test/csv/all.csv"
+    weekly_csv_path = "/root/vocabulary_test/csv/weekly.csv"
 
     csv_columns = "english,japanese,parts_of_speech"
     csv_columns_list = ["english" ,"japanese" ,"parts_of_speech"]
 
     def __init__(self, name=DEFAULT_TEACHER_NAME):
         super().__init__(name=name)
-        self.ranking_model = ranking.RankingModel()
 
     def _hello_decorator(func):
         """Decorator to say a greeting if you are not greeting the user."""
