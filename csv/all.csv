@@ -455,8 +455,8 @@ intelligent,賢い adjective
 trustworthy,信頼できる adjective
 fair-weather friend,まさかの時に頼みにならない友 noun
 easy-going,のんきな adjective
-family-oriented,家族と仲がいい adjective
-sense of humor,ユーモアのセンス　 phrase
+family-oriented,家族と仲がいい,Adjective
+sense of humor,ユーモアのセンス　 Phrase
 introvert,内向的 noun
 extrovert,外交的 noun
 ambivert,両向的,noun
@@ -706,4 +706,6 @@ conservative,保守的な noun
 radical,過激派,noun
 Malign,悪性,Adjective
 Invented,発明された,Verb
-injured,怪我をした,Adjective
+Injured,怪我をした,Adjective
+Express,表現する,Verb
+Blow one's own trumpet,自慢する,Phrase
