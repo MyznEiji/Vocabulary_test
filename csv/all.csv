@@ -708,7 +708,6 @@ Malign,悪性,Adjective
 Invented,発明された,Verb
 Injured,怪我をした,Adjective
 Express,表現する,Verb
-english,japanese,parts_of_speech
 It was kind of you to,親切に-してくれた,Phrase
 He didn't have a girlfriend,彼はガールフレンドを持っていなかった,Phrase
 They met,彼らは会った,Phrase
@@ -831,3 +830,7 @@ substitutes,代用品,Noun
 disassemble,分解,Verb
 hypothesis,仮説,Noun
 applicable,該当する,Adjective
+Competitive,競争の,Adjective
+Sort of,多少,Adverb
+Remaining problem,残りの問題,Phrase
+Obsession,取り付くこと,Noun
