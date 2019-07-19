@@ -1,111 +1,128 @@
 english,japanese,parts_of_speech
-corresponding,対応する,Verb
-schematic,図解,Noun
-allowance,手当,Noun
-scholarship,奨学金,Noun
-bloating,太り過ぎた,Noun
-proper posture,正しい姿勢,Noun
-whistle,ホイッスル,Verb
-villains,悪役,Noun
-In Japanese old times,日本では昔,Phrase
-burglars,強盗,Noun
-intruders,侵入者,Noun
-vengeful,復讐心のある,Adjective
-funeral,葬儀,Noun
-casket,棺桶,Noun
-establishments,事業者,Noun
-fortune,運勢,Noun
-right paw,右足,Noun
-moody person,気分屋,Noun
-revive,復活,Verb
-vulgar,下品な,Adjective
-pimples,にきび,Noun
-diabetes,糖尿病,Noun
-sticky,ネバネバしている,Adjective
-minor,未成年,Noun
-villains,悪役,Noun
-fetish,フェチ,Noun
-reputation,評判,Noun
-arrested,逮捕された,Verb
-innocent,潔白な,Adjective
-accidentally reset,誤ってリセット,Noun
-acquaintance,知り合い,Noun
-willing,喜んで,Adjective
-I'm stuck thinking of you,私はあなたのことを考えることをやめられない。 
-as someone else,他の人として,Noun
-frightened,おびえた,Adjective
-footsteps,足音:足跡,Noun
-toward,に向かって,Preposition
-itchiness,かゆみ,Noun
-awful,ひどい,Adjective
-unpleasant,不快,Adjective
-conscious,意識して,Adjective
-worth,価値,Noun
-get over,乗り越える,Verb
-Certificate,証明書,Noun
-unconscious,無意識,Adjective
-strategy,戦略,Noun
-antonyms,反意語,Noun
-hoard, 買いだめ,Verb
-have rally,集会,Noun
-herd,群,Noun
-discipline,しつけ,Noun
-firmer,しっかりした,Adjective
-former,前者,Noun
-occurred,発生した,Verb
-accord, 協心,Noun 
-clingy,しつこい,Adjective
-pity,哀れみ,Noun
-literature,文献,Noun
-leftover everything,残ったもの,Noun
-have a blast,楽しく過ごす,Phrase
-You are the apple of my eye,溺愛している人や物,Phrase
-brochure,パンフレット,Noun
-guidance counselor,進路指導教員,Noun
-monitor,制御する,Verb
-dropped by, 立ち寄る,Verb
-be college material,大学進学に向いている,Adjective
-discourage,がっかりする,Verb
-I'm disgusting,ムカつく,Phrase
-sweep,一掃,Verb
-The year went by, 時が経つ,Verb
-now and then,時々,Adverb
 weird,変な,Adjective
-be capable of,～の才能がある,Verb
-succeeding,成功する,Noun
-hit the books,猛勉強する,Phrase
-big deal,大事件,Noun
-throw cold water on,けちをつける,Phrase
-atheist,無心論者,Noun
-hypocrite,偽善者,Noun
-bullying,いじめ,Noun
-encounter,出会い,Noun
-abuse,乱用,Noun
-forbid,禁じる,Verb
-literature,文学,Noun
-The time went by since I join here,ここに加わってから時間が経ちました。,Phrase
-hassle,めんどくさい,Adjective
-troublesome,めんどくさい,Adjective
-bothersome,めんどくさい,Adjective
-tiresome,うんざりする,Adjective 
-What's difference between A and B,AとBの違いは何ですか?, Phrase
-assume,仮定する,Verb
-all over the place,至る所に,Phrase
-get one's hands on something,をつかまえる,Phrase
-die down,次第に消える,Phrase
-in the end,ついに,Adverb
-show up,暴露する - はっきり見えるようにする,Verb
-turn something in,返す - 届ける,Verb
-make an impression,～に感銘［感動・印象］を与える,Verb
-find something out,自分［自力］で何かを見いだす,Verb
-take a trip,旅行をする,Verb
-roll out the red carpet,大歓迎する,Phrase
-have the time of one's life,一生に一度の[この上なく]楽しい思いをする,Phrase
-scold,叱る,Verb
-ultimately,最終的に,Adverb
-I can do it eyes closed,私はそれを目を閉じですることができます,Phrse
-grow weaker,弱まる,Verb
-patriotic,愛国心が強い,Adjective
-Turn over a new leaf,改心する,Phrase
-mandatory,必須,Adjective
-representation,表現,Noun
+blotches,しみ,Noun
+alopecia,脱毛症,Noun
+hair follicles,毛包,Noun
+treatment,処理,Noun
+health related,健康関連,Noun
+Countdown,数える,Verb
+Double take,2度見する,Phrase
+Do you wanna feel it?,あなたはそれを感じたいですか？,Phrase
+Take a guess,あててみて,Phrase
+On the right track,正しい道,Phrase
+Bunch of something,何かのグループ,Phrase
+Hinge,(戸・ふた・二枚貝などの)ちようつがい,Noun
+Muzzle,鼻面,Noun
+misbehavior,不正行為,Noun
+Handy,便利な,Adjective
+Treat,餌,Noun
+Bridle,おもがい、くつわ、手綱,Noun
+Lick,舐める,Verb
+Counter,カウンター,Noun
+Harness,信頼できる部下,Noun
+Guide dog,盲導犬,Noun
+White cane,盲目の人が使う杖,Noun
+Gentle leader,寛大なリーダー,Noun
+Underboss,ボスの一個下の人,Noun
+Henchman,信頼できる部下,Noun
+Say it again?,もう一度言ってください,Phrase
+Run into something,何かにぶつかる,Phrase
+Good for you,よかったね,Phrase
+twirl,くるくる回る,Verb
+relieve,ほっとする,Verb
+submissive,従順な,Adjective
+spoiled,甘やかされた,Adjective
+Curious,,好奇心の強い,Adjective
+inquisitive,好奇心が強い,Adjective
+ventriloquist,腹話術師,Noun
+Inanimate,無生物な,Adjective
+Iguana,イグアナ,Noun
+Dummy,ダミー,Noun
+Creepy,気味が悪い,Adjective
+creep out,ひどくゾッとさせる,Phrase
+mess up,しくじる,Phrase
+Try something out,試してみて,Phrase
+turn over a new leaf,改心する,Phrase
+make friends,馴れ合う,Phrase
+first-rate,一流,Noun
+sign up for something,何かを申し込む
+hand something in,提出する,Phrase
+on time,定刻,Noun
+on the spot,その場で,Phrase
+it turns out that,～だとわかる,Phrase
+behind bars,刑務所に入って,Phrase
+as well as,と同様, conjunction
+vague,曖昧な,Adjective
+crow,カラス,Noun
+out of nowhere,どこからともなく,Phrase
+What in the world?,いったいぜんたい,Phrase
+Wide-eyed,目を大きく見開いた,Phrase
+make off with,～を奪い去る,Verb
+be in a bad mood,機嫌が悪かった,Phrase
+for good,永遠,Adverb
+permanently,永久に,Adverb
+pulled into a place,～に寄る,Verb
+catch one's eye,目を引く,Verb
+put two and two together,正しい結論を導く,Phrase
+get something back,何かを取り戻す,Verb
+time flies so fast,時間が立つのはとても早い
+Rain cats and dogs,土砂降り,Phrase
+Give someone a lift,(人)を同乗させる[車に乗せてやる],Phrase
+teardrop,涙,Noun
+After a while,しばらくして,Adverb
+In a hurry, 急いで,Adverb
+Catch someone red-handed,(人を)現行犯逮捕する,Phrase
+shoplift,万引き,Noun
+just in time,ギリギリ間に合う,Adverb
+fraternity,友愛,Noun
+solo eternity,ひとりぼっち,Noun
+enthusiasm,熱意,Noun
+Love at first sight,一目惚れ,Phrase
+be head over heels in love with someone,(人)にすっかり[ぞっこん]ほれ込む,Phrase
+Look after someone or something ,誰かのまたは何かの世話をする,Phrase
+ditch,溝,Noun
+be brokenhearted, がっかりする,Verb
+over and over,なんども,Phrase
+repeatedly,繰り返し,Adverb
+have a sweet tooth,甘党です,Phrase
+Go from bad to worse,ますます悪化する,Phrase
+Die of a broken heart,傷ついた心,Phrase
+respectively,それぞれ,Adjective
+individually,個別に,Adjective
+pity,残念,Noun
+postpone,延期する,Verb
+reveal,明らかにする,Verb
+stand up,激しく打ち合う,Verb
+against,~に対して,Preposition
+oppose,反対する,Verb
+constarast ,逆らう,Verb
+Inappropriate,不適切,Adjective
+consistent,一貫して,Adjective
+awful,ひどい,Adjective
+privilege,特権,Noun
+yawn,あくび,Verb
+exotic,レア,Adjective
+bully,いじめっ子,Noun
+separation anxiety,分離不安,Noun
+thrilled at,わくわく,Verb
+prospect,見通し,Noun
+envy,妬み,Noun
+polyamorous  relationship,複数のパートナーとの恋愛,Phrase
+obsess,取り付く,Verb
+stand in role,役割を担う,Noun
+ask out,招く,Verb
+flaw,欠陥,Noun
+strenght,強さ,Noun
+monotonous,単調,Noun
+sweet tooth, 甘党, noun
+measures,対策,Noun
+suppress,抑制する,Verb
+Extract,抽出する,Verb
+eruption,噴火,Noun
+lack,欠如,Noun
+ingredients,材料,Noun
+just one click away,ワンクリックで,Phrase
+fate,運命,Noun
+it's a matter of choice,それは選択の問題。,Phrase
+obligation,義務,Noun
+possibility,可能性,Adjective
