@@ -1,128 +1,31 @@
 english,japanese,parts_of_speech
-weird,変な,Adjective
-blotches,しみ,Noun
-alopecia,脱毛症,Noun
-hair follicles,毛包,Noun
-treatment,処理,Noun
-health related,健康関連,Noun
-Countdown,数える,Verb
-Double take,2度見する,Phrase
-Do you wanna feel it?,あなたはそれを感じたいですか？,Phrase
-Take a guess,あててみて,Phrase
-On the right track,正しい道,Phrase
-Bunch of something,何かのグループ,Phrase
-Hinge,(戸・ふた・二枚貝などの)ちようつがい,Noun
-Muzzle,鼻面,Noun
-misbehavior,不正行為,Noun
-Handy,便利な,Adjective
-Treat,餌,Noun
-Bridle,おもがい、くつわ、手綱,Noun
-Lick,舐める,Verb
-Counter,カウンター,Noun
-Harness,信頼できる部下,Noun
-Guide dog,盲導犬,Noun
-White cane,盲目の人が使う杖,Noun
-Gentle leader,寛大なリーダー,Noun
-Underboss,ボスの一個下の人,Noun
-Henchman,信頼できる部下,Noun
-Say it again?,もう一度言ってください,Phrase
-Run into something,何かにぶつかる,Phrase
-Good for you,よかったね,Phrase
-twirl,くるくる回る,Verb
-relieve,ほっとする,Verb
-submissive,従順な,Adjective
-spoiled,甘やかされた,Adjective
-Curious,,好奇心の強い,Adjective
-inquisitive,好奇心が強い,Adjective
-ventriloquist,腹話術師,Noun
-Inanimate,無生物な,Adjective
-Iguana,イグアナ,Noun
-Dummy,ダミー,Noun
-Creepy,気味が悪い,Adjective
-creep out,ひどくゾッとさせる,Phrase
-mess up,しくじる,Phrase
-Try something out,試してみて,Phrase
-turn over a new leaf,改心する,Phrase
-make friends,馴れ合う,Phrase
-first-rate,一流,Noun
-sign up for something,何かを申し込む
-hand something in,提出する,Phrase
-on time,定刻,Noun
-on the spot,その場で,Phrase
-it turns out that,～だとわかる,Phrase
-behind bars,刑務所に入って,Phrase
-as well as,と同様, conjunction
-vague,曖昧な,Adjective
-crow,カラス,Noun
-out of nowhere,どこからともなく,Phrase
-What in the world?,いったいぜんたい,Phrase
-Wide-eyed,目を大きく見開いた,Phrase
-make off with,～を奪い去る,Verb
-be in a bad mood,機嫌が悪かった,Phrase
-for good,永遠,Adverb
-permanently,永久に,Adverb
-pulled into a place,～に寄る,Verb
-catch one's eye,目を引く,Verb
-put two and two together,正しい結論を導く,Phrase
-get something back,何かを取り戻す,Verb
-time flies so fast,時間が立つのはとても早い
-Rain cats and dogs,土砂降り,Phrase
-Give someone a lift,(人)を同乗させる[車に乗せてやる],Phrase
-teardrop,涙,Noun
-After a while,しばらくして,Adverb
-In a hurry, 急いで,Adverb
-Catch someone red-handed,(人を)現行犯逮捕する,Phrase
-shoplift,万引き,Noun
-just in time,ギリギリ間に合う,Adverb
-fraternity,友愛,Noun
-solo eternity,ひとりぼっち,Noun
-enthusiasm,熱意,Noun
-Love at first sight,一目惚れ,Phrase
-be head over heels in love with someone,(人)にすっかり[ぞっこん]ほれ込む,Phrase
-Look after someone or something ,誰かのまたは何かの世話をする,Phrase
-ditch,溝,Noun
-be brokenhearted, がっかりする,Verb
-over and over,なんども,Phrase
-repeatedly,繰り返し,Adverb
-have a sweet tooth,甘党です,Phrase
-Go from bad to worse,ますます悪化する,Phrase
-Die of a broken heart,傷ついた心,Phrase
-respectively,それぞれ,Adjective
-individually,個別に,Adjective
-pity,残念,Noun
-postpone,延期する,Verb
-reveal,明らかにする,Verb
-stand up,激しく打ち合う,Verb
-against,~に対して,Preposition
-oppose,反対する,Verb
-constarast ,逆らう,Verb
-Inappropriate,不適切,Adjective
-consistent,一貫して,Adjective
-awful,ひどい,Adjective
-privilege,特権,Noun
-yawn,あくび,Verb
-exotic,レア,Adjective
-bully,いじめっ子,Noun
-separation anxiety,分離不安,Noun
-thrilled at,わくわく,Verb
-prospect,見通し,Noun
-envy,妬み,Noun
-polyamorous  relationship,複数のパートナーとの恋愛,Phrase
-obsess,取り付く,Verb
-stand in role,役割を担う,Noun
-ask out,招く,Verb
-flaw,欠陥,Noun
-strenght,強さ,Noun
-monotonous,単調,Noun
-sweet tooth, 甘党, noun
-measures,対策,Noun
-suppress,抑制する,Verb
-Extract,抽出する,Verb
-eruption,噴火,Noun
-lack,欠如,Noun
-ingredients,材料,Noun
-just one click away,ワンクリックで,Phrase
-fate,運命,Noun
-it's a matter of choice,それは選択の問題。,Phrase
-obligation,義務,Noun
-possibility,可能性,Adjective
+various levels,様々なレベル,Noun
+diligent,勤勉,Adjective
+What do you do?,職業はなんですか?,Phrase
+Majority of them, 彼らの大多数,Phrase
+So far,今の所,Adverb
+Pretty,結構,Adverb
+What do you like to do in your free time?,暇なときは何をしていますか？,Phrase
+Come up with,思い付く,Verb
+It sounds like,〜そうですね,Phrase
+Nowhere near,〜には程遠い,Phrase
+Do you have any siblings?,兄弟はいますか?,Phrase
+Older brother / Younger sister,兄 / 妹,Noun
+Where do you fall in?,何番目ですか?,Phrase
+Tell me about your,について教えてください,Phrase
+Close to,誰々と仲がいい,Adjective
+ I take it you’re not as close to your sisters?,あなたは兄弟と仲が良くないと理解していますがそうですか？,Phrase
+I’m actually crashing at my parents with my little brother,実は私は家族と一緒に住んでいます。,Phrase
+and stuff, などなど,Phrase
+surprise baby,できちゃった子供,Noun
+Oh I look at that,私もです,Phrase
+and things like that,そのようなこと,Phrase
+I was born and raised in ~,〜で私は生まれ育ちました,Phrase
+whenever someone says,誰かがいうときはいつも,Phrase
+people from your elementary school,小学校からの人々,Noun
+Are you from around here?,あなたはこの辺りで生まれ育ったんですか？,Phrase
+What’s _____ like?,~はどんな感じですか？,Phrase
+Immediate family,身近な家族,Noun
+keep in touch with,連絡を取り合う,Verb
+I guess so,そうかもね,Phrase
+I don’t know a lot about ,それについてあまり詳しくない,Phrase
