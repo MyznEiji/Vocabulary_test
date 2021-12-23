@@ -1,17 +1,29 @@
-# Vocabulary_test
-for English Life
+# docker-python-handson
+Based on https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5
 
 
-## Installation
+### Docker Command
+```
+# build
+$ docker-compose up -d --build
 
-$ git clone git@github.com:MyznEiji/Vocabulary_test.git
+# down
+$ docker-compose down
+```
 
+### Into to container
+```
+# python3 server
+$ docker-compose exec python3 bash
+```
 
-## Set enviroment
-$ docker run -it --name vocabulary_test -v /Users/miyazonoeiji/projects/python/vocabulary_test/:/root/vocabulary_test frolvlad/alpine-python3
-### Install Liblary
-$ pip3 install termcolor
+### test
+```
+# Hello world
+$ docker compose exec python3 python src/sample.py
+```
 
-
-## How to run
-$ docker container start vocabulary_test && docker exec -it vocabulary_test python3 /root/vocabulary_test/main.py && docker container stop vocabulary_test
+### Ruine the world
+```
+$  docker-compose down --rmi all --volumes --remove-orphans 
+```
